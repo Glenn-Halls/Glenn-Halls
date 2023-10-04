@@ -7,7 +7,11 @@ After dipping my toe in the water with RMIT's Introduction to Programming, I com
 ## Current Project
 Inspired by the knowledge gained thanks to <a href="https://developer.android.com/" target="blank">Android Developers</a>, I am currently working on an app to showcase these skills. <a href="https://github.com/Glenn-Halls/My-Bookshelf" target="blank">My Bookshelf</a> is an app that allows users to search for books via Google's database of over 40 million books, or to see what is currently popular via New York Times' Bestseller charts. Users can track books on the bestseller charts, save books to their library (including personal notes) and mark their favourites books for easy perusal.
 
-This app demonstrates:
+<br>
+
+![Screenshots of app in use](collage.png?raw=true "Screenshots")
+
+### This app demonstrates:
 <ul>
   <li><a href="https://developer.android.com/topic/architecture" target="blank">Modern Android App Architecture</a></li>
   <li>Repository Patten</li>
